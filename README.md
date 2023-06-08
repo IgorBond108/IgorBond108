@@ -1,6 +1,6 @@
 <h1 align="center">
   Привет, я Бондаренко Игорь
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/IukQzorbDfxacf49tr/giphy.gif" width="30px"/>
 </h1>
  </div>
     <div id="header" align="center">
