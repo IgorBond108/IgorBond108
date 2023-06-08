@@ -2,7 +2,7 @@
   Привет, я Бондаренко Игорь
   <img src="https://media.giphy.com/media/IukQzorbDfxacf49tr/giphy.gif" width="30px"/>
 </h1>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/PGd_108">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
