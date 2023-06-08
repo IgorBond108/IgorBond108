@@ -2,6 +2,10 @@
   Привет, я Бондаренко Игорь
   <img src="https://media.giphy.com/media/IukQzorbDfxacf49tr/giphy.gif" width="30px"/>
 </h1>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
  </div>
     <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -32,10 +36,6 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBond108&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 <div id="header" align="center">
