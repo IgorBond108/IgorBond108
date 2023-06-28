@@ -1,5 +1,5 @@
 <h1 align="center">
-  Привет, я Бондаренко Игорь Junior Flutter разработчик
+  Привет, я Бондаренко Игорь - junior flutter developer
   <img src="https://media.giphy.com/media/IukQzorbDfxacf49tr/giphy.gif" width="30px"/>
 </h1>
 <div id="badges" align="center">
@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: О себе : Я разработчик Flutter, имею коммерческий опыт, поддерживаю приложение для розыгрышей для компании Теле2, так же сейчас делаю приложение для сервиса по ремонту бытовой техники. 
+### :man_technologist: О себе : Разрабатываю мобильные приложения на Flutter, имею коммерческий опыт, поддерживаю приложение для розыгрышей для компании Теле2, так же сейчас делаю приложение для сервиса по ремонту бытовой техники. 
 Ищю работу на полный рабочий день в творческой компании с наставником и дружной командой!
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
