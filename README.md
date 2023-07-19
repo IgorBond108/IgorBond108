@@ -12,11 +12,10 @@
 </div>
 
 ### :man_technologist: О себе : Я разработчик Flutter.
-На данный момент работаю на фрилансе. Иногда просят в приложениях убрать баги и добавить фичи, берусь за разные проекты.
-Свободное время от учебы посвящаю семье, читаю книги, слушаю лекции, занимаюсь йогой. Вредных привычек не имею.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+На данный момент работаю на фрилансе.
 
-- :telescope: На данный момент работаю инженером-программистом и создаю схемы в AutoCAD для шкафов управления насосами повышающими давление
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :seedling: Изучал Java,Spring,Dart,Flutter
 
