@@ -12,7 +12,8 @@
 </div>
 
 ### :man_technologist: О себе : Я разработчик Flutter.
-На данный момент работаю на фрилансе.
+  Скилы:
+  OOP, Java, Dart, Flutter, Git, Github, SQLite, NoSQL, back4app, FireBase, Figma, FlutterFlow, bloc, SharedPreferences
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
