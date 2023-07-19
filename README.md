@@ -18,7 +18,6 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Изучал Java,Spring,Dart,Flutter
 
 - :zap: В свободное время решаю задачи на leetcode.com и читаю книги по програмированию, посвящаю время семье, слушаю лекции, занимаюсь йогой. 
 
